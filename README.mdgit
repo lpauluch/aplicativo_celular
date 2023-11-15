@@ -1,0 +1,1 @@
+"# aplicativo_celular"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/lpauluch/aplicativo_celular.gitgit push -u origin main
